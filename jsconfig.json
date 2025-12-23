@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "compilerOptions": {
     "paths": {
@@ -7,13 +7,4 @@
   },
   "exclude": ["node_modules", "dist"]
 }
-=======
-{
-  "compilerOptions": {
-    "paths": {
-      "@/*": ["./src/*"]
-    }
-  },
-  "exclude": ["node_modules", "dist"]
-}
->>>>>>> abe7342e9e6f1bd6e7a84178dfa0c792b222decb
+
